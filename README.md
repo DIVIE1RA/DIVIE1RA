@@ -48,6 +48,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DIVIE1RA/DIVIE1RA/output/snake.svg" alt="Snake animation" />
 
 ###
