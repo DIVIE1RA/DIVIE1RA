@@ -6,17 +6,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="500" src="https://cdn.discordapp.com/attachments/1344782252046815264/1344782433073102899/banner-github.png?ex=67c229bc&is=67c0d83c&hm=087c639f4476b69010756f2b4eb90fe48b416c37c74b0faeb834b9f8b6ae61f4&"  />
+
+###
+
 <h6 align="left">🌍 Rio Grande do Sul</h6>
 
 ###
 
 <h6 align="left">🎓 Estudante de Analise e Desenvolvimento de Sistemas</h6>
-
-###
-
-<br clear="both">
-
-<img align="right" height="586" src="https://cdn.discordapp.com/attachments/1344782252046815264/1344782433073102899/banner-github.png?ex=67c229bc&is=67c0d83c&hm=087c639f4476b69010756f2b4eb90fe48b416c37c74b0faeb834b9f8b6ae61f4&"  />
 
 ###
 
