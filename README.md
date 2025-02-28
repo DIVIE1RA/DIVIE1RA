@@ -20,7 +20,7 @@
 
 ###
 
-<h6 align="left">⚡ Apirante em Java</h6>
+<h6 align="left">⚡ Aspirante em Java</h6>
 
 ###
 
